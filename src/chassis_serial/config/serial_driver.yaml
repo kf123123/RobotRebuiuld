@@ -1,0 +1,8 @@
+/chassis_serial_driver:
+  ros__parameters:
+    device_name: /dev/R2botC
+    baud_rate: 115200
+    flow_control: none
+    parity: none
+    stop_bits: "1"
+
